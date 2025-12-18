@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.Map;
 
 @FeignClient(name = "openweather-client", url = "${weather.api.url}")
-public interface ExternalWeatherClient {
+public interface OpenWeatherClient {
 
     @GetMapping("/weather")
     Map<String, Object> getWeather(
