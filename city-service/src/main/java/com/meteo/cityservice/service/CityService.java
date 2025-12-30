@@ -40,4 +40,9 @@ public class CityService {
     public void deleteCity(Long id) {
         cityRepository.deleteById(id);
     }
+
+    public City getCityByName(String name) {
+        return cityRepository.findByName(name);
+    }
+
 }

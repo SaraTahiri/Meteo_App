@@ -38,6 +38,12 @@ public class CityController {
     public void delete(@PathVariable Long id) {
         cityService.deleteCity(id);
     }
+
+    @GetMapping("/by-name/{name}")
+    public City getByName(@PathVariable String name) {
+        return cityService.getCityByName(name);
+    }
+
 }
 
 
