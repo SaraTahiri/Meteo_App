@@ -77,8 +77,8 @@ Fallback automatique
 Protection contre pannes de services
 
 ### 👥 Auteurs
-TAHIRI Sara : https://github.com/SaraTahiri || https://www.linkedin.com/in/tahiri-sara/
-LAHMIDI Anas : https://github.com/anasthe03 || https://www.linkedin.com/in/lahmidianas/
+1. TAHIRI Sara : https://github.com/SaraTahiri || https://www.linkedin.com/in/tahiri-sara/
+2. LAHMIDI Anas : https://github.com/anasthe03 || https://www.linkedin.com/in/lahmidianas/
 
 ### 📞 Contact
 Pour toute question : tahirisara911@gmail.com || anaslahmidi03@gmail.com
