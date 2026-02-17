@@ -238,8 +238,8 @@ service-name/
 💼 LinkedIn: [linkedin.com/in/tahiri-sara](https://www.linkedin.com/in/tahiri-sara/)
 
 **Anas Lahmidi**  
-🔗 GitHub: [github.com/anasthe03](https://github.com/AnasLahmidi)  
-💼 LinkedIn: [linkedin.com/in/lahmidianas](https://www.linkedin.com/in/anas-lahmidi/)
+🔗 GitHub: [github.com/AnasLahmidi](https://github.com/AnasLahmidi)  
+💼 LinkedIn: [linkedin.com/in/anas-lahmidi](https://www.linkedin.com/in/anas-lahmidi/)
 
 ## 📞 Contact
 
